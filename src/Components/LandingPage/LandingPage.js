@@ -12,7 +12,7 @@ function LandingPage() {
     <div className='landing-page'>
       <header>
         {/* <img src = {} alt="" /> */}
-        <img src={ALNLogo} alt='Finall Logo' />
+        <img src={ALNLogo} alt='ALN Logo' />
         <h1> We are coming soon... </h1>
         <p>
           We are almost there! If you want to get notified when the website goes
